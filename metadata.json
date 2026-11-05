@@ -1,0 +1,8 @@
+{
+  "name": "Remix WIN BACK DATA - Gestión de Leads y Ventas Fibra Óptica",
+  "description": "Panel de back office para gestión, distribución, rotación inteligente y análisis de ventas de WIN Internet Hogar en Perú.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
